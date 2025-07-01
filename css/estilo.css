@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    color: black;
+    background-color: aliceblue;
+}
+section{
+    background-color: white;
+    width: 600px;
+    text-align: center;
+    border: 1px solid;
+    margin: 50px 350px;
+}
+
+header{
+    background-color: cadetblue;
+    padding: 15px;
+    font-style: oblique;
+    border: 1px solid;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+h2{
+    font-style: normal;
+}
+
+img{
+    border: 1px solid;
+    box-sizing: border-box;
+    width: 300px;
+    margin: 20px auto;
+}
+
+footer{
+    background-color: darkgrey;
+    height: 50px;
+    text-align: center;
+    padding: 15px 10px;
+    color: black;
+    font-size: 0.9rem;
+}
